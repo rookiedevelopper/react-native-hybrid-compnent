@@ -1,1 +1,1 @@
-# react-native-hybrid-compnent
+# react-native-hybrid-component

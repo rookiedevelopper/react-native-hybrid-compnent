@@ -1,0 +1,31 @@
+{
+  "name": "react-native-hybrid-compnent",
+  "version": "1.0.0",
+  "description": "it is a react-native hybrid-compnent it consits of group of components[Textfield,DropDown,DatePicker]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookiedevelopper/react-native-hybrid-component.git"
+  },
+  "keywords": [
+    "react-native",
+    "hybrid",
+    "compnent"
+  ],
+  "author": "shayan aithal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rookiedevelopper/react-native-hybrid-component/issues"
+  },
+  "homepage": "https://github.com/rookiedevelopper/react-native-hybrid-component#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  },
+  "peerDependencies": {
+    "react-native": "^0.60.4",
+    "react": "^16.9.0"
+  }
+}
